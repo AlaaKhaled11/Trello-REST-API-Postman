@@ -5,7 +5,7 @@
 # Notes
 1. Create a workspace for "Trello"
 2. Try any request like https://api.trello.com/1/members/me:
-  - a. The response will be invalid token which means you don't have the authority to access this API
+   <br> a. The response will be invalid token which means you don't have the authority to access this API <br>
   - b. So now you need to get your account credentials which will be sent with every request so the server will detect who you are and execute your request successfully
 3. Get your credentials:
   - a. Log in to your Trello account
