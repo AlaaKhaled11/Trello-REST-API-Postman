@@ -8,7 +8,7 @@
    <br>a. The response will be invalid token which means you don't have the authority to access this API<br>
    <br>b. So now you need to get your account credentials which will be sent with every request so the server will detect who you are and execute your request<br> successfully
 3. Get your credentials:
-  <br>a. Log in to your Trello account<br>
+  <br>a. Log in to your Trello account
   <br>b. Get your personal key from here<br>
   <br>c. If you got a "Trello Server Error: Oh no! 401!" when getting your personal key, make sure you are logged in Trello<br>
   <br>d. On the same page, click on Token to get your token<br>
