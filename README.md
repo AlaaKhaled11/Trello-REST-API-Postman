@@ -1,6 +1,6 @@
 # Trello-REST-API-Postman
 # Install
-● Download the collection files and import them into postman
+- Download the collection files and import them into postman
 
 # Notes
 1. Create a workspace for "Trello"
