@@ -13,5 +13,3 @@
   <br>c. If you got a "Trello Server Error: Oh no! 401!" when getting your personal key, make sure you are logged in Trello
   <br>d. On the same page, click on Token to get your token
   <br>e. After getting your credentials, you are now ready to start working on Trello's APIs
-4. Explore all Trello's APIs from here
-5. Submit a "credentials.txt" file with your app key and token
